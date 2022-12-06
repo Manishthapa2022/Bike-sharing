@@ -12,6 +12,8 @@ The ollowing results will be shown thrrough the visualization:
 ## Results
 #### **August Peak Hours** 
 ![](https://github.com/Manishthapa2022/Bike-sharing/blob/main/Pictures/August%20peak%20hours.png)
+It is a good idea to carry out most of the bike maintenance during the off pea times such as from 12 am to 5 am when the ride numbers drop considerably.  
+
 #### **Checkout Time Users**
 ![](https://github.com/Manishthapa2022/Bike-sharing/blob/main/Pictures/Check%20out%20times%20Users.png)
 #### **Checkout timees by Genders**
@@ -28,3 +30,11 @@ The ollowing results will be shown thrrough the visualization:
 ![](https://github.com/Manishthapa2022/Bike-sharing/blob/main/Pictures/Trips%20by%20Weekday%20(hour).png)
 #### **User trips by Gender**
 ![](https://github.com/Manishthapa2022/Bike-sharing/blob/main/Pictures/USer%20trips%20by%20Gender.png)
+
+
+## Summary
+After reviewing the visualizations, we can conclude that there are more Subscribers as compared to the customers and most of the subscribers are Males as compared to both Females and Unknown. Also, most of the trips are approx 5 minutes long and mostly concentrated at city center.   
+Some of the visiualizations I would do would be following:
+* We should carry out an visualization to see how many women are there as compared to men at this city center location. Thi would help us understand if the less number of women subscribers aree bacuse of the less number of women or beacuse of fact that women dont subscribe to Bikek sharing services. Accordingly we can plan a future course of action based on the visualization.
+* Another visualzation should be on how many subscribers are tourists and how many are office going folks. 
+* 
