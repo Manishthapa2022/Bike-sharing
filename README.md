@@ -1,5 +1,5 @@
 # **Bike-sharing**
-[Tableau link](https://public.tableau.com/app/profile/manish.thapa4247/viz/bikesharingProject/Story1?publish=yes)
+## [Tableau link](https://public.tableau.com/app/profile/manish.thapa4247/viz/bikesharingProject/Story1?publish=yes)
 
 ## Purpose of the Analysis
 The purpose of this analysis to convince a potential investor to invest in Bike sharing business in Des Moines Iowa. A through analysis of the Bike sharing business "Citibike" in New York was done to create  set of visualizations  
@@ -17,7 +17,7 @@ It is a good idea to carry out most of the bike maintenance during the off pea t
 #### **Checkout Time Users**
 ![](https://github.com/Manishthapa2022/Bike-sharing/blob/main/Pictures/Check%20out%20times%20Users.png)
 
-#### **Checkout timees by Genders**
+#### **Checkout times by Genders**
 ![](https://github.com/Manishthapa2022/Bike-sharing/blob/main/Pictures/Checkout%20by%20Gender.png)
 
 #### **Customer type**
@@ -32,7 +32,7 @@ It is a good idea to carry out most of the bike maintenance during the off pea t
 #### **Trips by Gender**
 ![](https://github.com/Manishthapa2022/Bike-sharing/blob/main/Pictures/Trips%20by%20Gender.png)
 
-#### **Trips by Weekday (hour)**
+#### **Trips by Weekday (By hour)**
 ![](https://github.com/Manishthapa2022/Bike-sharing/blob/main/Pictures/Trips%20by%20Weekday%20(hour).png)
 The less number of trips during offfice/business hours could be beacuse of the high number of subscribers who are office goers or could be due to heavy traffic congestion or restrictionson biking during these hours. 
 
