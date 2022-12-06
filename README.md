@@ -9,13 +9,16 @@ The ollowing results will be shown thrrough the visualization:
 - The number of Bike trips for all riders and genders for each hour of each day of the week
 - The number of bike trips for each type of user and gender for each day of the week
 
-# Results
-
-![August Peak Hours](https://github.com/Manishthapa2022/Bike-sharing/blob/main/Pictures/August%20peak%20hours.png)
-
+## Results
+#### August Peak Hous 
+![](https://github.com/Manishthapa2022/Bike-sharing/blob/main/Pictures/August%20peak%20hours.png)
+#### 
 ![](https://github.com/Manishthapa2022/Bike-sharing/blob/main/Pictures/Check%20out%20times%20Users.png)
+
 ![](https://github.com/Manishthapa2022/Bike-sharing/blob/main/Pictures/Checkout%20by%20Gender.png)
+
 ![](https://github.com/Manishthapa2022/Bike-sharing/blob/main/Pictures/Customer%20type.png)
+
 ![](https://github.com/Manishthapa2022/Bike-sharing/blob/main/Pictures/Top%20Starting%20locations.png)
 ![](https://github.com/Manishthapa2022/Bike-sharing/blob/main/Pictures/Top%20ending%20locations.png)
 ![](https://github.com/Manishthapa2022/Bike-sharing/blob/main/Pictures/Trips%20by%20Gender.png)
