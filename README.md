@@ -11,4 +11,5 @@ The ollowing results will be shown thrrough the visualization:
 
 # Results
 
-![August Peak Hours](https://github.com/Manishthapa2022/Bike-sharing/blob/main/Pictures/August%20peak%20hours.png)
+![August Peak Hours]
+(https://github.com/Manishthapa2022/Bike-sharing/blob/main/Pictures/August%20peak%20hours.png)
